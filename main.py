@@ -45,8 +45,6 @@ function_stop = False
 
 
 ######################################### AUDIO ##################################
-
-
 # change of guard redirections
 tan_sau = mixer.Sound("Tan_sau.wav")
 bong_sau = mixer.Sound("Bong_sau.wav")
